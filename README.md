@@ -1,17 +1,18 @@
-# 1D-CNN-Anomaly-Detection-via-CASPER
+# CASPER: Context-Aware IoT Anomaly Detection System for Industrial Robotic Arms
 
-This is the repo for the paper titled as: 
+Welcome to the repository for the paper titled **CASPER**. This system is designed for anomaly detection in industrial robotic arms using IoT technology.
 
-**CASPER: Context-Aware IoT Anomaly Detection System for Industrial Robotic Arms**
+## Main Jupyter Notebook
+The main analysis and presentation of work can be found in the Jupyter notebook:
+- [`casper.ipynb`](/notebooks/casper.ipynb)
 
-`Figures` folder contains **coding-related figures** of the paper.
+## Node-RED BLE Communication Package
+We have also developed a Node-RED package to facilitate BLE communication, which you can find here:
+- [node-red-contrib-ble-sense](https://www.npmjs.com/package/node-red-contrib-ble-sense)
 
-`models` folder contains **LSTM and CNN** models.
+## Arduino Sketch for BLE IMU Data
+Check out the `niclaBLEIMUStruct` folder for the Arduino sketch used in our research.
 
-`results` folder contains loss values for **LSTM and CNN**.
+> **Note:** This repository is under active development as the associated paper is undergoing major revision. Stay tuned for updates.
 
-`CASPER.ipynb` is the main **Jupyter Notebook** file where the work is presented.
-
-**Node-RED package** that we developed that enables BLE communication: [node-red-contrib-ble-sense](https://www.npmjs.com/package/node-red-contrib-ble-sense)
-
-In that repository see `niclaBLEIMUStruct` folder the utilized **Arduino sketch**.
+For more details, please refer to the first cell of the casper.ipynb notebook.
