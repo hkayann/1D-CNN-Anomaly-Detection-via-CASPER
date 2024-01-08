@@ -6,6 +6,11 @@ Welcome to the repository for the paper titled **CASPER**. This system is design
 The main analysis and presentation of work can be found in the Jupyter notebook:
 - [`casper.ipynb`](/notebooks/casper.ipynb)
 
+For now please check the following notebook, which is from a checkpoint.
+Due to bug, the other one cannot be displayed. 
+I am working on a fix.
+- [`casper.ipynb`](/notebooks/casper_recovered.ipynb)
+
 ## Node-RED BLE Communication Package
 We have also developed a Node-RED package to facilitate BLE communication, which you can find here:
 - [node-red-contrib-ble-sense](https://www.npmjs.com/package/node-red-contrib-ble-sense)
