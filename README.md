@@ -1,5 +1,11 @@
 # CASPER: Context-Aware IoT Anomaly Detection System for Industrial Robotic Arms
 
+🚨 **This repository has moved!** 🚨  
+We have migrated this repository to a new location for continued updates and improvements:  
+➡️ **[New Repository](https://github.com/hkayann/Real-time-Anomaly-Detection-in-Industrial-Robotic-Arms-via-TinyML)**  
+
+---
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)
 ![Issues](https://img.shields.io/github/issues/yourusername/yourrepository)
@@ -34,3 +40,4 @@ If you use CASPER in your research, please cite our paper:
   month = {jun},
   keywords = {neural networks, anomaly detection, industrial robotic arms, cyber-physical systems, ubiquitous computing}
 }
+```
